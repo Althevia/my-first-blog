@@ -25,7 +25,7 @@ SECRET_KEY = 'by)sm^84@x1v#q+*&b5i^)&vk2^ux&he^41a(nzqvv6a!bovy*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','althevia.pythonanywhere.com','Althevia.pythonanywhere.com','http://althevia.pythonanywhere.com','http://althevia.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','<althevia>.pythonanywhere.com','<Althevia>.pythonanywhere.com','http://althevia.pythonanywhere.com','http://althevia.pythonanywhere.com']
 
 
 # Application definition
